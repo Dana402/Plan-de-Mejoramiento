@@ -26,5 +26,4 @@ Este proyecto es una API RESTful para la gestión de empleados. Permite registra
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/Dana402/Plan-de-Mejoramiento.git
